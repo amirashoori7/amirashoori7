@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirashoori7
+- 👋 Hi, I’m @amirashoori7 a.k.a AJ
 - 👀 I’m interested in development
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on research projects
